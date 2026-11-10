@@ -13,7 +13,7 @@
         <maven.compiler.release>17</maven.compiler.release>
         <project.build.sourceEncoding>UTF-8</project.build.sourceEncoding>
         <junit.version>5.11.4</junit.version>
-        <mockito.version>5.14.2</mockito.version>
+        <mockito.version>5.24.0</mockito.version>
     </properties>
 
     <dependencies>
